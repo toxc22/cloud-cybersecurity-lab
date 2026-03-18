@@ -106,3 +106,11 @@ Remote access setup (SSH + RDP)
 ⚠️ Ethical Use Notice
 
 All testing was done in a controlled lab. Do NOT scan networks without permission.
+
+## 📸 Screenshots
+
+### Kali Environment
+![Kali Terminal](kali-terminal.png)
+
+### Additional Terminal View
+![Kali Terminal 2](kali-terminal-2.png)
